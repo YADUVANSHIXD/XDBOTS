@@ -24,6 +24,6 @@
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-<a href="https://t.me/friend_circles"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/friend_circles"><img src="https://img.shields.io/badge/Join-Telegram%20Group-red.svg?logo=Telegram"></a>
 
 </details>
