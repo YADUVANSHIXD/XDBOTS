@@ -5,14 +5,14 @@ from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10
 
 START_BUTTON = [
     [
-        Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")
+        Button.inline("⚝ нєℓρ ⚝", data="help_back")
     ],
     [
-        Button.url("• OWNER •", "https://t.me/YaduvanshiXD"),
-        Button.url("• SUPPORT •", "https://t.me/friend_circles")
+        Button.url("⚝ σωηєя ️️⚝", "https://t.me/YaduvanshiXD"),
+        Button.url("⚝ ¢нαт ️️️️⚝", "https://t.me/friend_circles")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/ItZxSTaR/XBOTS")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/pradeepyadav9161/XBOTS")
     ]
 ]
 
@@ -34,7 +34,7 @@ async def start(event):
         bot_name = AltBot.first_name
         bot_id = AltBot.id
         TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [YADUVANSHI](https://t.me/YaduvanshiXD)**\n\n"
+        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [ 𝐘𝐚𝐝𝐮𝐯𝐚𝐧𝐬𝐡𝐢](https://t.me/YaduvanshiXD)**\n\n"
         TEXT += f"» **xʙᴏᴛꜱ ᴠᴇʀsɪᴏɴ :** `M3.3`\n"
         TEXT += f"» **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `3.11.3`\n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
