@@ -31,7 +31,7 @@ async def echo(event):
             elif user_id == OWNER_ID:
                 await event.reply("ʙʀᴜʜ, ᴛʜɪs ᴜsᴇʀ ɪs ᴛᴇᴀᴍ 𓆩𝗫𝗗𓆪 ᴏᴡɴᴇʀ.")
             elif user_id in SUDO_USERS:
-                await event.reply(LOL, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀ ꜱᴜᴅᴏ ᴜꜱᴇʀ.")
+                await event.reply("LOL, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀ ꜱᴜᴅᴏ ᴜꜱᴇʀ.")
             else:
                 try:
                     alt = Get(base64.b64decode('QFRoZUFsdHJvbg=='))
