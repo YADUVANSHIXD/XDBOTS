@@ -10,9 +10,6 @@ START_BUTTON = [
     [
         Button.url("⚝ σωηєя ️️⚝", "https://t.me/YaduvanshiXD"),
         Button.url("⚝ ¢нαт ️️️️⚝", "https://t.me/friend_circles")
-    ],
-    [
-        Button.url("⚝ ʀᴇᴘᴏ ⚝", "https://github.com/pradeepyadav9161/XBOTS")
     ]
 ]
 
